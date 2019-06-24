@@ -1,0 +1,10 @@
+
+{
+  "mode": "scan",
+  "sourceId": "62916",
+  "organizationId": 7682,
+  "sourceRequiresScanPipeline": true,
+  "token": "task-insert-into-index:6b2559ad0aee4804a1ec9de975533e4eb06ba331acff4639a438bdb6d8615e95",
+  "veritoneApiBaseUrl": "https://api.aws-dev.veritone.com",
+  "streamOutKafkaTopic": "stream_b5e0466d-9afa-4d7d-98a5-625ce5549670-e6b475bb-7be6-4780-be52-3e7f19239f91"
+}

@@ -1,0 +1,24 @@
+{
+  "applicationId": "ed075985-bc94-406b-8639-44d1da42c3fb",
+  "jobId": "18083103_dkct8GH1Gi",
+  "mode": "scan",
+  "organizationId": "7682",
+  "parentTreeObjectId": "437f72f3-bfdd-44fa-9973-bbb1a6019ed1",
+  "recordingId": "400009980",
+  "sourceId": "41470",
+  "streamOutKafkaTopic": "stream_b5e0466d-9afa-4d7d-98a5-625ce5549670-e6b475bb-7be6-4780-be52-3e7f19239f91",
+  "tags": [],
+  "taskId": "18083103_dkct8GH1GiohjjG",
+  "taskPayload": {
+    "mode": "scan",
+    "organizationId": "7682",
+    "parentTreeObjectId": "437f72f3-bfdd-44fa-9973-bbb1a6019ed1",
+    "recordingId": "400009980",
+    "sourceId": "41470",
+    "tags": [],
+    "tdoId": "400009980"
+  },
+  "tdoId": "400009980",
+  "token": "dd8d8a05-ff87-4ec0-81f0-95a7f5c28cb8",
+  "veritoneApiBaseUrl": "https://api.aws-dev.veritone.com"
+}

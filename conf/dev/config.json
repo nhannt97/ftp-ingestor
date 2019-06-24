@@ -1,0 +1,8 @@
+{
+	"veritone-api": {
+		"baseUri": "https://api.aws-dev.veritone.com",
+		"maxRetry": 3,
+		"retryIntervalMs": 5000
+	},
+	"signedUrlExpireSeconds": 43200
+}

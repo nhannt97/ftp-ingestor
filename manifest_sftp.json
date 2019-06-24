@@ -1,0 +1,20 @@
+{
+  "engineId": "8e0f4cc4-9ff4-4814-8cae-91f0a81879d1",
+  "url": "https://github.com/veritone/ftp-ingestor",
+  "category": "ingestion",
+  "externalCalls": [],
+  "preferredInputFormat": "application/json",
+  "outputFormats": [
+    "application/json"
+  ],
+  "clusterSize": "small",
+  "initialConcurrency": 50,
+  "maxConcurrency": 50,
+  "oauth": "2.0",
+  "ingestion": {
+    "scanner": true,
+    "supportedSourceTypes": ["20"]
+  },
+  "engineMode": "stream"
+}
+

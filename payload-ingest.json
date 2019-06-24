@@ -1,0 +1,15 @@
+
+{
+  "mode": "ingest",
+  "tdoId": "550009787",
+  "fileId": "/CL-20190624-V1.mp3",
+  "metadata": {
+    "fileName": "CL-20190624-V1.mp3",
+    "fileModifiedDateTime": 1561350780
+  },
+  "sourceId": "62916",
+  "recordingId": "550009787",
+  "organizationId": 7682,
+  "token": "task-insert-into-index:6b2559ad0aee4804a1ec9de975533e4eb06ba331acff4639a438bdb6d8615e95",
+  "veritoneApiBaseUrl": "https://api.aws-dev.veritone.com"
+}

@@ -1,0 +1,20 @@
+{
+  "engineId": "8e1e1f59-67ef-41d8-a7f4-5e797884618c",
+  "url": "https://developer.aws-dev.veritone.com/engines/8e1e1f59-67ef-41d8-a7f4-5e797884618c",
+  "category": "ingestion",
+  "externalCalls": [],
+  "preferredInputFormat": "video/mp4",
+  "outputFormats": [
+    "application/json"
+  ],
+  "clusterSize": "small",
+  "initialConcurrency": 50,
+  "maxConcurrency": 50,
+  "oauth": "2.0",
+  "ingestion": {
+    "scanner": true,
+    "supportedSourceTypes": ["16"]
+  },
+  "engineMode": "stream"
+}
+

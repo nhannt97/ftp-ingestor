@@ -1,0 +1,9 @@
+{
+	"veritone-api": {
+		"token": "s3-scanner:11cd6b4c58e44c829918ae544435d00c12618f59bea141c595bafff95d4f9613",
+		"baseUri": "https://api.uk.veritone.com",
+		"maxRetry": 3,
+		"retryIntervalMs": 5000
+	},
+	"signedUrlExpireSeconds": 43200
+}
